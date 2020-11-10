@@ -126,6 +126,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requime
    Ordering host to number vulnerability
    GET /hosts/?ordering=num_vulnerability
 ```
+## Authentication
+![img](https://i.imgur.com/quL31lO.png)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
